@@ -30,18 +30,18 @@ I am an engineering student and developer specializing in **Embedded Systems, Co
 * 📟 **Low-Level Dev:** Optimizing Memory-Mapped I/O configurations and custom address decoding schemes for microprocessor systems.
 
 ---
-
+<!--
 ### 📊 Highlighted Projects (Quick Links)
 
 * 📡 **[Project Name 1](https://github.com/yourusername/repo)** - A hardware-software co-design analyzing real-time sensor data utilizing an Arduino interface verified against MATLAB mathematical simulations.
 * 🔌 **[Project Name 2](https://github.com/yourusername/repo)** - Custom firmware and circuit schematic for a Buck-Boost converter, featuring precise component sizing and efficiency profiling.
 * 🗄️ **[Project Name 3](https://github.com/yourusername/repo)** - A local database management system built with PHP/MySQL designed to efficiently index and update structured records.
 
----
+--->
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dimas-pratama247)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:dimasnanda526@gmail.com)
 
 *“The target might be complex, but standard, modular, and deeply documented code always gets the job done.”*
