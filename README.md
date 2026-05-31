@@ -17,12 +17,12 @@ I am an engineering student and developer specializing in **Embedded Systems, Co
 ![Proteus](https://img.shields.io/badge/Simulation-Proteus%20%26%20Simulink-orange?style=flat-square)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
+<!--
 **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
----
-
+--->>
 ### 🚀 Current Focus & Research
 
 * 🧠 **Control Systems:** Implementing and comparing hardware-level Fuzzy Logic Controllers (Mamdani/Sugeno) and tuned PID loops with MATLAB/Simulink models.
